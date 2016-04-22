@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.7051557
+color:
+  saturation: 0.6472533
+  lightness: 0.2178185
+  brandStrength: 0.3238453
+  brandColors:
+    - '#FFFFFF'
+    - '#0B0A08'
+    - '#6A483D'
+    - '#F0B188'
+    - '#B77960'
+  rhythmicContrast: 0.6327518
+name: Kirk Family
