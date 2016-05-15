@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 1
 color:
-  saturation: 0.6472533
+  saturation: 0.2293233
   brandStrength: 0.3238453
-  lightness: 0.8329753
+  lightness: 0.5741138
   brandColors:
     - '#FFFFFF'
     - '#0B0A08'
     - '#6A483D'
     - '#F0B188'
     - '#B77960'
-  rhythmicContrast: 0.6327518
-typography_spectrum: 1
+  rhythmicContrast: 0
 layout_spectrum: 0
 name: Kirk Family
