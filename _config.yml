@@ -1,3 +1,7 @@
+name: Kirk Family
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2293233
-  brandStrength: 0.3238453
-  lightness: 0.5741138
   brandColors:
     - '#FFFFFF'
     - '#0B0A08'
     - '#6A483D'
     - '#F0B188'
     - '#B77960'
-  rhythmicContrast: 0
-layout_spectrum: 0
-name: Kirk Family
+  brandStrength: 0.3238453
+  lightness: 0.5741138
+  saturation: 0.2293233
+  rhythmicContrast: 0.75
+purpose: []
